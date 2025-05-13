@@ -1,4 +1,4 @@
-package com.eco_easy.data.datasource.remote
+package com.eco_easy.app.network.datasource.remote
 
 import io.ktor.client.HttpClient
 import io.ktor.client.plugins.HttpTimeout

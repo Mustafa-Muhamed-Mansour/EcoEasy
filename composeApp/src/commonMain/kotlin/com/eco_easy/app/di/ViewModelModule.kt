@@ -7,7 +7,7 @@ import org.koin.compose.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 
 val viewModelModule = module {
-    viewModel { ProductsViewModel(productsUseCase = get()) }
-    viewModel { CategoriesViewModel(categoriesUseCase = get()) }
-    viewModel { ContentOfCategoryViewModel(contentOfCategoryUseCase = get()) }
+    viewModel { ProductsViewModel(productRepository = get()) }
+    viewModel { CategoriesViewModel(categoryRepository = get()) }
+    viewModel { ContentOfCategoryViewModel(contentOfCategoryRepository = get()) }
 }

@@ -22,7 +22,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import cafe.adriel.voyager.navigator.LocalNavigator
 import com.eco_easy.app.screens.home.HomeProductsScreen
-import com.eco_easy.domain.entity.ProductModel
+import com.eco_easy.app.entity.ProductModel
 import com.seiko.imageloader.rememberImagePainter
 import compose.icons.FeatherIcons
 import compose.icons.feathericons.ArrowLeftCircle

@@ -1,4 +1,4 @@
-package com.eco_easy.data.utils
+package com.eco_easy.app.utils
 
 
 object Constants {

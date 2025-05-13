@@ -1,11 +1,11 @@
-package com.eco_easy.data.datasource.remote
+package com.eco_easy.app.network.remote
 
-import com.eco_easy.data.utils.Constants.BASE_URL
-import com.eco_easy.data.utils.Constants.CATEGORY
-import com.eco_easy.data.utils.Constants.LIMIT
-import com.eco_easy.data.utils.Constants.PRODUCTS
-import com.eco_easy.domain.response.CategoryResponse
-import com.eco_easy.domain.response.ProductResponse
+import com.eco_easy.app.utils.Constants.BASE_URL
+import com.eco_easy.app.utils.Constants.CATEGORY
+import com.eco_easy.app.utils.Constants.LIMIT
+import com.eco_easy.app.utils.Constants.PRODUCTS
+import com.eco_easy.app.response.CategoryResponse
+import com.eco_easy.app.response.ProductResponse
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.get

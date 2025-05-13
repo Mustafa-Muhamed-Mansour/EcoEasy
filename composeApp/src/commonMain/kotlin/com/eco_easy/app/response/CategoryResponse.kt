@@ -1,4 +1,4 @@
-package com.eco_easy.domain.response
+package com.eco_easy.app.response
 
 import kotlinx.serialization.Serializable
 

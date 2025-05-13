@@ -1,4 +1,4 @@
-package com.eco_easy.domain.entity
+package com.eco_easy.app.entity
 
 import kotlinx.serialization.Serializable
 

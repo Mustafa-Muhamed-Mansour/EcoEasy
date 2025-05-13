@@ -83,11 +83,6 @@ kotlin {
             implementation(libs.koin.compose)
             implementation(libs.koin.compose.viewmodel)
             implementation(libs.androidx.lifecycle.viewmodel.koin)
-
-            // Depends on data and domain
-            implementation(project(path = ":data"))
-            implementation(project(path = ":domain"))
-
         }
         desktopMain.dependencies {
             implementation(compose.desktop.currentOs)

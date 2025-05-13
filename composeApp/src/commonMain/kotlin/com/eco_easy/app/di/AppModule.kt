@@ -9,8 +9,7 @@ fun initKoin(config: KoinAppDeclaration? = null) {
         modules(
             apiModule,
             repositoryModule,
-            viewModelModule,
-            useCaseModule
+            viewModelModule
         )
     }
 }

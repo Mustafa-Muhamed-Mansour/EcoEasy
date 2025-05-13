@@ -1,6 +1,6 @@
-package com.eco_easy.domain.response
+package com.eco_easy.app.response
 
-import com.eco_easy.domain.entity.ProductModel
+import com.eco_easy.app.entity.ProductModel
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
