@@ -132,13 +132,13 @@ fun ContentOfCategories(
                                         textAlign = TextAlign.End
                                     )
 
-//                                    Text(
-//                                        modifier = Modifier
-//                                            .fillMaxWidth(),
-//                                        text = products.description,
-//                                        color = Color.Black,
-//                                        fontSize = 15.sp
-//                                    )
+                                    Text(
+                                        modifier = Modifier
+                                            .fillMaxWidth(),
+                                        text = products.description,
+                                        color = Color.Black,
+                                        fontSize = 15.sp
+                                    )
                                 }
                             }
                         }
