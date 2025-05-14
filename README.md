@@ -3,6 +3,7 @@
 2. [Screenshots](#screenshots)
 3. [Structure Project](#structure-project)
 4. [Build With](#build-with)
+5. [Demo Video](#demo-video)
 
 
 # EcoEasy
@@ -43,7 +44,27 @@ A collection of products contains of a name, image, and price of the product. al
 * [Ktor](https://github.com/ktorio/ktor) - to get data from the network (API) instead of retrofit. (to make HTTP requests)
 
 
+# 📹 Demo Video
+<td> 
+      <video src = "https://github.com/user-attachments/assets/50954280-d060-4939-91ab-dd348b627661" type="video/mp4"/>
+</td>
+
+# How to run
+
+## Before running!
+
+### Android
+To run the application on android device/emulator:
+- open project in Android Studio and run imported android run configuration
+
+To build the application bundle:
+- run `./gradlew :shared:assembleDebug`
+- find `.apk` file in `shared/build/outputs/apk/debug/commonMain-debug.apk`
+
+### Desktop
+Run the desktop application: `./gradlew :commonMain:run`
+
+
 
 This is a Kotlin Multiplatform project targeting Android, Desktop.
-
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
