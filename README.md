@@ -1,5 +1,5 @@
 # Table of content
-1. [Users](#users)
+1. [EcoEasy](#ecoeasy)
 2. [Screenshots](#screenshots)
 3. [Structure Project](#structure-project)
 4. [Build With](#build-with)
