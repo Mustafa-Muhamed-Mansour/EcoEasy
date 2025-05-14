@@ -17,8 +17,9 @@ A collection of products contains of a name, image, and price of the product. al
 <img src = "https://github.com/user-attachments/assets/2b104bfe-9702-4503-ac20-1e8c6b0bb24c" width = "200" height = "400">  <img src = "https://github.com/user-attachments/assets/b36babd0-3b3c-4b53-9bd5-fbb368edc4a1" width = "200" height = "400">  <img src = "https://github.com/user-attachments/assets/9f454b56-652a-49c8-a8d4-7babd47b35b2" width = "200" height = "400">
 
 ## 🖥️Desktop
-<img src = "https://github.com/user-attachments/assets/8c30d336-f53e-4dcd-866c-178b32df78f9" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/71c7d10d-9cf1-468b-b54f-1b586a1da33f" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/3014bfd3-c6db-4352-a943-36e31135c317" width = "800" height = "600">
-<img src = "https://github.com/user-attachments/assets/385a6b5f-ca16-48c1-b9d8-910b22a06a09" width = "200" height = "400"> <img src = "https://github.com/user-attachments/assets/394da4cf-aba0-45a0-be31-b09e212575ac" width = "200" height = "400">
+<img src = "https://github.com/user-attachments/assets/f275cddb-e84c-4d5c-95d1-5392dc6fe38e" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/86443e23-0093-4352-9ed2-7f547a51e064" width = "800" height = "600">
+<img src = "https://github.com/user-attachments/assets/94f4a11b-971a-4c86-b05a-7a9b1279ffa5" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/2d401b5a-1846-4a3f-91db-ec83393c2558" width = "200" height = "400">
+<img src = "https://github.com/user-attachments/assets/4943728f-1e02-43bd-af27-7fbe40995085" width = "200" height = "400">
 
 
 
