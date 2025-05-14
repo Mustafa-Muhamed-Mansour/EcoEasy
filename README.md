@@ -18,18 +18,18 @@ A collection of products contains of a name, image, and price of the product. al
 
 ## 🖥️Desktop
 <img src = "https://github.com/user-attachments/assets/f275cddb-e84c-4d5c-95d1-5392dc6fe38e" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/86443e23-0093-4352-9ed2-7f547a51e064" width = "800" height = "600">
-<img src = "https://github.com/user-attachments/assets/94f4a11b-971a-4c86-b05a-7a9b1279ffa5" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/2d401b5a-1846-4a3f-91db-ec83393c2558" width = "200" height = "400">
-<img src = "https://github.com/user-attachments/assets/4943728f-1e02-43bd-af27-7fbe40995085" width = "200" height = "400">
+<img src = "https://github.com/user-attachments/assets/94f4a11b-971a-4c86-b05a-7a9b1279ffa5" width = "800" height = "600"> <img src = "https://github.com/user-attachments/assets/2d401b5a-1846-4a3f-91db-ec83393c2558" width = "800" height = "600"> 
+ <img src = "https://github.com/user-attachments/assets/4943728f-1e02-43bd-af27-7fbe40995085" width = "800" height = "600">
 
 
 
 # Structure project
 
 ## (🥴MVVM without clean architecture)
-<img src = "" width = "700" height = "600">
+<img src = "" width = "200" height = "800">
 
 ## (🫡MVVM with clean architecture)
-<img src = "https://github.com/user-attachments/assets/7aa1eb15-2902-4e87-930a-dd1aea1565c1" width = "800" height = "900">
+<img src = "https://github.com/user-attachments/assets/7aa1eb15-2902-4e87-930a-dd1aea1565c1" width = "200" height = "800">
 
 
 # 🧑🏾‍💻Build with
