@@ -27,7 +27,7 @@ A collection of products contains of a name, image, and price of the product. al
 # Structure project
 
 ## (🥴MVVM without clean architecture)
-<img src = "https://github.com/user-attachments/assets/51f45ed4-b9cf-4333-bba1-dca4cd6a0270" width = "200" height = "800">
+<img src = "https://github.com/user-attachments/assets/51f45ed4-b9cf-4333-bba1-dca4cd6a0270" width = "500" height = "800">
 
 ## (🫡MVVM with clean architecture)
 <img src = "https://github.com/user-attachments/assets/7aa1eb15-2902-4e87-930a-dd1aea1565c1" width = "200" height = "800">
