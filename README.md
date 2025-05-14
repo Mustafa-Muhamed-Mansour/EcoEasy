@@ -27,7 +27,7 @@ A collection of products contains of a name, image, and price of the product. al
 # Structure project
 
 ## (🥴MVVM without clean architecture)
-<img src = "" width = "200" height = "800">
+<img src = "https://github.com/user-attachments/assets/51f45ed4-b9cf-4333-bba1-dca4cd6a0270" width = "200" height = "800">
 
 ## (🫡MVVM with clean architecture)
 <img src = "https://github.com/user-attachments/assets/7aa1eb15-2902-4e87-930a-dd1aea1565c1" width = "200" height = "800">
@@ -44,25 +44,14 @@ A collection of products contains of a name, image, and price of the product. al
 * [Ktor](https://github.com/ktorio/ktor) - to get data from the network (API) instead of retrofit. (to make HTTP requests)
 
 
-# 📹 Demo Video
+
+
+# 📹Demo video
+
 <td> 
       <video src = "https://github.com/user-attachments/assets/50954280-d060-4939-91ab-dd348b627661" type="video/mp4"/>
 </td>
 
-# How to run
-
-## Before running!
-
-### Android
-To run the application on android device/emulator:
-- open project in Android Studio and run imported android run configuration
-
-To build the application bundle:
-- run `./gradlew :shared:assembleDebug`
-- find `.apk` file in `shared/build/outputs/apk/debug/commonMain-debug.apk`
-
-### Desktop
-Run the desktop application: `./gradlew :commonMain:run`
 
 
 
