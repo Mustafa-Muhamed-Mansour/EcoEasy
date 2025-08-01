@@ -48,9 +48,27 @@ A collection of products contains of a name, image, and price of the product. al
 
 # 📹Demo video
 
-<td> 
-      <video src = "https://github.com/user-attachments/assets/50954280-d060-4939-91ab-dd348b627661" type="video/mp4"/>
-</td>
+<table>
+  <tr>
+    <td>
+      <video width="320" height="240" controls>
+       <td> <video src = "https://github.com/user-attachments/assets/50954280-d060-4939-91ab-dd348b627661" type="video/mp4"/> </td>
+      </video>
+      <p>🟢 Android Demo</p>
+    </td>
+    <td>
+  </tr>
+</table>
+        
+<table>
+  <tr>
+          <video width="320" height="240" controls>
+        <td> <video src = "https://github.com/user-attachments/assets/c5f7913d-530b-4822-84b1-83e65261aee0" type="video/mp4"/> </td>
+      </video>
+      <p>🟣 Desktop Demo</p>
+    </td>
+        </tr>
+</table>
 
 
 
